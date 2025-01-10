@@ -15,5 +15,5 @@ the following is the data worked on...
 
 
 ![Screenshot 2025-01-10 232637](https://github.com/user-attachments/assets/205901d7-91bd-4d1b-8640-3ea8acfb2fd5)
-## **workings**
+
 
